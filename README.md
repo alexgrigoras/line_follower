@@ -15,10 +15,8 @@ Line Follower Robot design for student competitions.
 1. Use cases and future development
 1. References
 
-## Files
-- CAD model
-- Algorithm
-- PPT presentation
+## Implementation
+See [Documentation](documentation.pdf) for mode details.
 
 ## License
 The software is licensed under the MIT License.
